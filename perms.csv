@@ -1,0 +1,189 @@
+﻿id,name,guard_name,visible,created_at,updated_at
+1,permission list,web,0,2023-12-18 01:25:36,2023-12-18 01:25:36
+2,permission create,web,0,2023-12-18 01:25:36,2023-12-18 01:25:36
+3,permission edit,web,0,2023-12-18 01:25:36,2023-12-18 01:25:36
+4,permission delete,web,0,2023-12-18 01:25:36,2023-12-18 01:25:36
+5,role list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+6,role create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+7,role edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+8,role delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+9,user list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+10,user create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+11,user edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+12,user delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+13,plan list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+14,plan create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+15,plan edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+16,plan delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+17,company list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+18,company create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+19,company edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+20,company delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+21,store list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+22,store create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+23,store edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+24,store delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+25,brand list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+26,brand create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+27,brand edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+28,brand delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+29,unit list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+30,unit create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+31,unit edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+32,unit delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+33,product category list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+34,product category create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+35,product category edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+36,product category delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+37,product sub category list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+38,product sub category create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+39,product sub category edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+40,product sub category delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+41,product list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+42,product create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+43,product edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+44,product delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+45,import products,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+46,print barcode,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+47,inventory list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+48,inventory create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+49,inventory edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+50,inventory delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+51,inventory damaged goods list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+52,inventory damaged goods create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+53,inventory damaged goods edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+54,inventory damaged goods delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+55,inventory expired goods list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+56,inventory expired goods create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+57,inventory expired goods edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+58,inventory expired goods delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+59,inventory dead stock list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+60,inventory dead stock create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+61,inventory dead stock edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+62,inventory dead stock delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+63,sales list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+64,sales create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+65,sales edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+66,sales delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+67,sales return list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+68,sales return create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+69,sales return edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+70,sales return delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+71,proforma invoice list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+72,proforma invoice create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+73,proforma invoice edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+74,proforma invoice delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+75,delivery list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+76,delivery create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+77,delivery edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+78,delivery delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+79,purchase list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+80,purchase create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+81,purchase edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+82,purchase delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+83,stock list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+84,stock transfer list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+85,stock transfer create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+86,stock transfer edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+87,stock transfer delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+88,stock adjustment list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+89,stock adjustment create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+90,stock adjustment edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+91,stock adjustment delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+92,stock take list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+93,stock take create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+94,stock take edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+95,stock take delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+96,expense category list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+97,expense category create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+98,expense category edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+99,expense category delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+100,expense list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+101,expense create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+102,expense edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+103,expense delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+104,subscription list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+105,subscription create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+106,subscription edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+107,subscription delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+108,subscription history list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+109,subscription history delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+110,communication list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+111,communication bulk sms list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+112,communication bulk sms create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+113,communication bulk sms delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+114,communication email list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+115,communication email create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+116,communication email delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+117,people list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+118,customer list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+119,customer create,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+120,customer edit,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+121,customer delete,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+122,supplier list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+123,supplier create,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+124,supplier edit,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+125,supplier delete,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+126,staff list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+127,staff create,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+128,staff edit,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+129,staff delete,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+130,report list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+131,payment report list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+132,inventory report list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+133,sales report list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+134,product sales report list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+135,purchase report list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+136,customer report list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+137,ar aging summary report list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+138,p&l report list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+139,balance sheet report list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+140,settings list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+141,general settings list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+142,email settings list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+143,sms settings list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+144,payment settings list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+145,currency settings list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+146,Integrations settings list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+147,roles&permission settings list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+148,tax rate settings list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+149,packaging unit list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+150,item classification list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+151,item type list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+152,inventory bill of materials list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+153,inventory bill of materials create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+154,inventory bill of materials edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+155,inventory bill of materials delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+156,sales payment list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+157,sales payment create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+158,sales payment edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+159,sales payment delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+160,restpos list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+161,restpos table list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+162,restpos table create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+163,restpos table edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+164,restpos table delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+165,restpos menu list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+166,restpos menu create,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+167,restpos menu edit,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+168,restpos menu delete,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+169,restpos menu category list,web,1,2023-12-18 01:25:36,2023-12-18 01:25:36
+170,restpos menu category create,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+171,restpos menu category edit,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+172,restpos menu category delete,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+173,restpos kitchen panel,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+174,restpos create sale,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+175,countries list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+176,countries create,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+177,countries edit,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+178,countries delete,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+179,accounting list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+180,accounting create,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+181,accounting edit,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+182,accounting delete,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+183,accounting transfer,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+184,accounting banks list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+185,accounting type list,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+186,accounting type create,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+187,accounting type edit,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
+188,accounting type delete,web,1,2023-12-18 01:25:37,2023-12-18 01:25:37
